@@ -1,0 +1,13 @@
+#clock
+{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin: 270px auto;
+    width: 200px;
+}
+body{
+    /* background: black; */
+    background: linear-gradient(to right,red,orange,green,yellow,blue,white,pink);
+    margin: 0px;
+    padding: 0px;
+}
