@@ -1,2 +1,2 @@
 # clocks
-setInterval,setTimeout,  and inbiult functions
+setInterval,setTimeout and inbiult functions
